@@ -1,0 +1,14 @@
+[
+    {
+      "product": "Product A",
+      "category": "Category 1",
+      "quantity": 100,
+      "sales": 2000
+    },
+    {
+      "product": "Product B",
+      "category": "Category 2",
+      "quantity": 150,
+      "sales": 3000
+    }
+  ]

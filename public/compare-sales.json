@@ -1,0 +1,14 @@
+[
+    {
+      "product": "Product A",
+      "category": "Category 1",
+      "salesDate1": 1500,
+      "salesDate2": 1800
+    },
+    {
+      "product": "Product B",
+      "category": "Category 2",
+      "salesDate1": 2500,
+      "salesDate2": 3200
+    }
+  ]
